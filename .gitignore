@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+uberweb3/node_modules
+
 # testing
 /coverage
 
